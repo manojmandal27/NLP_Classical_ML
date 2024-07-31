@@ -20,3 +20,6 @@ POSTERIOR PROBABILITY --> Probability by combining both prior and liklihood prob
 
 Formula of Naive Bayes Theorem:
 #    P(A|B) = (P(B|A) * p(A)) / P(B)
+
+Word Cloud: 
+![image](https://github.com/user-attachments/assets/9e48ba30-a3af-4ce0-b3be-2e63cc633c95)
