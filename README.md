@@ -1,5 +1,5 @@
 # NLP / Text mining using Classical ML
-## Problem Statement and Business Case : To analyze the twwets and categorize as positive /negative tweets
+## Problem Statement and Business Case : To analyze the tweets and categorize as positive /negative tweets
 NLP (Natural Language Processing) works by converting words (texts) into numbers 
 These numbers are then used to train the Machine Learning Models to make Predictions
 This AI/ML model is crucial for companies to detect their customer reviews fast and efficiently
